@@ -1,0 +1,11 @@
+D:\ohjelmointi\repos2\PaivaMuotoiluKonsoli\bin\Debug\netcoreapp3.0\PaivaMuotoiluKonsoli.exe
+D:\ohjelmointi\repos2\PaivaMuotoiluKonsoli\bin\Debug\netcoreapp3.0\PaivaMuotoiluKonsoli.deps.json
+D:\ohjelmointi\repos2\PaivaMuotoiluKonsoli\bin\Debug\netcoreapp3.0\PaivaMuotoiluKonsoli.runtimeconfig.json
+D:\ohjelmointi\repos2\PaivaMuotoiluKonsoli\bin\Debug\netcoreapp3.0\PaivaMuotoiluKonsoli.runtimeconfig.dev.json
+D:\ohjelmointi\repos2\PaivaMuotoiluKonsoli\bin\Debug\netcoreapp3.0\PaivaMuotoiluKonsoli.dll
+D:\ohjelmointi\repos2\PaivaMuotoiluKonsoli\bin\Debug\netcoreapp3.0\PaivaMuotoiluKonsoli.pdb
+D:\ohjelmointi\repos2\PaivaMuotoiluKonsoli\obj\Debug\netcoreapp3.0\PaivaMuotoiluKonsoli.csprojAssemblyReference.cache
+D:\ohjelmointi\repos2\PaivaMuotoiluKonsoli\obj\Debug\netcoreapp3.0\PaivaMuotoiluKonsoli.AssemblyInfoInputs.cache
+D:\ohjelmointi\repos2\PaivaMuotoiluKonsoli\obj\Debug\netcoreapp3.0\PaivaMuotoiluKonsoli.AssemblyInfo.cs
+D:\ohjelmointi\repos2\PaivaMuotoiluKonsoli\obj\Debug\netcoreapp3.0\PaivaMuotoiluKonsoli.dll
+D:\ohjelmointi\repos2\PaivaMuotoiluKonsoli\obj\Debug\netcoreapp3.0\PaivaMuotoiluKonsoli.pdb
